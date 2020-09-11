@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## sup
 
 You can use the [editor on GitHub](https://github.com/ash-6ix9ine/biomed-proj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
